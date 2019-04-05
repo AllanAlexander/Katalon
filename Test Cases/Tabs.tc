@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get tab content</description>
+   <name>Tabs</name>
+   <tag>tabs</tag>
+   <comment></comment>
+   <testCaseGuid>86de0a42-8b0c-4354-b6fe-54544ba2d3b1</testCaseGuid>
+</TestCaseEntity>
